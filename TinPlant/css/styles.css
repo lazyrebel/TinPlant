@@ -1,0 +1,161 @@
+#title {
+  background-color: #889E81;
+  color: #fff;
+}
+
+body {
+  background-color: #F4EEED;
+}
+
+a {
+  color: black;
+}
+a:hover{
+  color: white;
+}
+
+h1 {
+  font-family: 'Langar-medium', cursive;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-size: 2rem;
+  line-height: 1.5;
+
+}
+
+p{
+  color: #8f8f8f;
+
+}
+
+.mockup {
+  width: 100%;
+  height: auto;
+}
+
+.img447 {
+  width: 10%;
+  height: auto;
+  border-radius: 100%;
+  margin: 20px;
+}
+.img268 {
+  max-width: 10%;
+  height: auto;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.img466{
+  max-width: 10%;
+  height: auto;
+  border-radius: 100%;
+  margin: 20px;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 2.5rem;
+
+}
+
+.navbar {
+  padding-bottom: 4rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+#features{
+  padding: 7% 10%;
+}
+
+.featurebox {
+  text-align: center;
+}
+
+.icon {
+  color: #698474;
+}
+
+.icon:hover {
+  color: #433D3C;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #889E81;
+  padding: 3% 15%;
+
+
+}
+
+.testimonial-text{
+  margin: 20px 15px;
+  padding: 5% 5%;
+  color: white;
+
+}
+
+#press{
+  background-color: #889E81;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  background-color: #889E81;
+  margin: 2% 2%;
+  padding: 5% 5%;
+  color: white;
+}
+
+.pf{
+color:white;
+font-size: 5px;
+padding-top: 10px;
+}
+
+.presslogo{
+  width: 80px;
+  margin: 0% 5%;
+}
+
+#pricing{
+  text-align: center;
+}
+.pricing-header{
+
+  text-align: center;
+  padding-top: 25px;
+
+}
+
+#cta {
+  text-align: center;
+  padding-top: 80px;
+
+}
+
+.sbox {
+text-align: center;
+
+}
+
+.pricingbox{
+ padding: 20px 20px;
+
+}
+
+.socialicon{
+  padding: 10px 10px;
+}
